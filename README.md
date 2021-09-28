@@ -1,7 +1,7 @@
 # Overview
 This repository contains the annotated dataset, the unigrams, bigrams and trigrams referenced in the paper **"Unmasking People’s Opinions behind Mask Wearing during COVID-19 Pandemic – a Twitter Stance Analysis"** submitted to the **Symmetry** journal.
 
-The tweets have been collected over a one-year period, bewteen **January 9, 2020** and **January 8, 2021**, as described in our paper. **January 9, 2020** marks the date when the **first tweet** to ever mention **mask wearing** in the context of the **COVID-19** pandemic has been published, marking the begining of the ongoing debate surrounding mask wearing.
+The tweets have been collected over a one-year period, bewteen **January 9, 2020** and **January 8, 2021**, as described in our paper. **January 9, 2020** is the date when the **first tweet** to ever mention **mask wearing** in the context of the **COVID-19** pandemic has been published, marking the begining of the ongoing debate surrounding mask wearing.
 
 > Note: The tweets have been minimally pre-processed before extracting the n-grams by removing stop words and duplicated white spaces.
 
